@@ -166,8 +166,10 @@ To run the application open index.html in the live server.
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Mohit_Sehrawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sehrawat/)
-[![Github](https://img.shields.io/badge/Mohit_Sehrawat-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
+[![linkedin](https://img.shields.io/badge/Manjunath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunathgl/)
+[![GitHub](https://img.shields.io/badge/Monjunath-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ManjunathGlO)
+
+© 2025 Manjunath G L
 
 © 2022 Mohit Sehrawat
 
