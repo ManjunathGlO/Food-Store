@@ -171,7 +171,7 @@ If you want to contact me, you can reach me through below handles.
 
 © 2025 Manjunath G L
 
-© 2022 Mohit Sehrawat
+
 
 
 
